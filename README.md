@@ -10,6 +10,8 @@
   使用 `miniconda` 配置 python 环境，并安装 `ccxt` 交易所`api`库 和 `numpy` 等高效计算库
   （可能还需要安装 `gcc`）    
   使用 `jupyterLab` 进行远程调试
+  使用 `azure notebook` 进程尝试
+  
 
 - ### `node·js` 环境
   使用 `nvm` 配置 `node·javascript` 环境，并安装 ccxt
